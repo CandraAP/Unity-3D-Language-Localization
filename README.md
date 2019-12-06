@@ -25,3 +25,5 @@ With this code you can easily support multiple language, without wasting time to
 </br>
 Clean, Simple & using Unity Default API, this script might never get old except unity restructured their resources folder</br>
 Credit my name if my code help your game.</br>
+</br>
+Tips: Pair this script with google's Noto font family and Unity's Text Mesh Pro and you'll get one hell of a beast to handle every languages on earth!
