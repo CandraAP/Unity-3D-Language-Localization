@@ -1,3 +1,6 @@
+// Copyright Candra Agung Prasetyo yuyevon777@gmail.com 2019
+// Credit my name if my code helped you
+
 using UnityEngine;
 
 namespace CAP
