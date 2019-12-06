@@ -1,0 +1,19 @@
+[{
+    "key": "C_LANG",
+    "words": "Language"
+}, {
+    "key": "C_OK",
+    "words": "OK"
+}, {
+    "key": "C_YES",
+    "words": "Yes"
+}, {
+    "key": "C_NO",
+    "words": "No"
+}, {
+    "key": "C_CANCEL",
+    "words": "Cancel"
+}, {
+    "key": "C_ERROR",
+    "words": "Error"
+}]
