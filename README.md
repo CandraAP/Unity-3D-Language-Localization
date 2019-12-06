@@ -23,4 +23,5 @@ private void Awake()</br>
 </br>
 With this code you can easily support multiple language, without wasting time to create your own localization manager.</br>
 </br>
+Clean, Simple & using Unity Default API, this script might never get old except unity restructured their resources folder</br>
 Credit my name if my code help your game.</br>
