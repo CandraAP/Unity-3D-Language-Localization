@@ -21,6 +21,6 @@ private void Awake()</br>
 } </br>
 </br>
 </br>
-With this code you can easily support multiple language, without wasting time to create your own localization language manager.</br>
+With this code you can easily support multiple language, without wasting time to create your own localization manager.</br>
 </br>
 Credit my name if my code help your game.</br>
