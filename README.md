@@ -11,16 +11,16 @@ How to install:</br>
 
 How to use:</br>
 
-private void Awake()
-{ 
-   CAP.Language.DefaultLanguage = "INA"; //Set your default language code
-
-   string checkDefaultLanguage = CAP.Language.DefaultLanguage; //To get current language code
-
-   string translatedWords = CAP.Language.Translate("C_LANG"); //put your key inside json file to get translated words
-}
-
-
+private void Awake()</br>
+{ </br>
+   CAP.Language.DefaultLanguage = "INA"; //Set your default language code </br>
+</br>
+   string checkDefaultLanguage = CAP.Language.DefaultLanguage; //To get current language code </br>
+</br>
+   string translatedWords = CAP.Language.Translate("C_LANG"); //put your key inside json file to get translated words </br>
+} </br>
+</br>
+</br>
 With this code you can easily support multiple language, without wasting time to create your own localization language manager.</br>
-
+</br>
 Credit my name if my code help your game.</br>
