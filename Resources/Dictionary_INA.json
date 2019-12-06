@@ -1,0 +1,19 @@
+[{
+    "key": "C_LANG",
+    "words": "Bahasa"
+}, {
+    "key": "C_OK",
+    "words": "OK"
+}, {
+    "key": "C_YES",
+    "words": "Ya"
+}, {
+    "key": "C_NO",
+    "words": "Tidak"
+}, {
+    "key": "C_CANCEL",
+    "words": "Batalkan"
+}, {
+    "key": "C_ERROR",
+    "words": "Terjadi Kesalahan"
+}]
